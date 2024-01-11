@@ -1,0 +1,4 @@
+Racun za korisnika: 1
+Stavke racuna:
+Naocare1 - 2 komada - 2000,00 din
+Ukupno: 2000,00 din

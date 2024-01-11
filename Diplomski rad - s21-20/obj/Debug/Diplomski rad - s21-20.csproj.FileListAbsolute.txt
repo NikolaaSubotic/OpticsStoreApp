@@ -1,0 +1,345 @@
+C:\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\Diplomski rad - s21-20.exe.config
+C:\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\Diplomski rad - s21-20.exe
+C:\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\Diplomski rad - s21-20.pdb
+C:\Diplomski rad - s21-20\Diplomski rad - s21-20\obj\Debug\Diplomski rad - s21-20.csproj.AssemblyReference.cache
+C:\Diplomski rad - s21-20\Diplomski rad - s21-20\obj\Debug\Diplomski_rad___s21_20.Properties.Resources.resources
+C:\Diplomski rad - s21-20\Diplomski rad - s21-20\obj\Debug\Diplomski_rad___s21_20.Views.NaocareView.resources
+C:\Diplomski rad - s21-20\Diplomski rad - s21-20\obj\Debug\Diplomski rad - s21-20.csproj.GenerateResource.cache
+C:\Diplomski rad - s21-20\Diplomski rad - s21-20\obj\Debug\Diplomski rad - s21-20.csproj.CoreCompileInputs.cache
+C:\Diplomski rad - s21-20\Diplomski rad - s21-20\obj\Debug\Diplomski rad - s21-20.exe
+C:\Diplomski rad - s21-20\Diplomski rad - s21-20\obj\Debug\Diplomski rad - s21-20.pdb
+C:\Diplomski rad - s21-20\Diplomski rad - s21-20\obj\Debug\Diplomski_rad___s21_20.Views.MainView.resources
+C:\Diplomski rad - s21-20\Diplomski rad - s21-20\obj\Debug\Diplomski_rad___s21_20.Views.BoldView.resources
+C:\Diplomski rad - s21-20\Diplomski rad - s21-20\obj\Debug\Diplomski_rad___s21_20.Views.DodaciView.resources
+C:\Diplomski rad - s21-20\Diplomski rad - s21-20\obj\Debug\Diplomski_rad___s21_20.Views.RimlessView.resources
+C:\Diplomski rad - s21-20\Diplomski rad - s21-20\obj\Debug\Diplomski_rad___s21_20.Views.DecijeView.resources
+C:\Diplomski rad - s21-20\Diplomski rad - s21-20\obj\Debug\Diplomski_rad___s21_20.Views.Dodaci2View.resources
+C:\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\Azure.Core.dll
+C:\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\Azure.Identity.dll
+C:\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\Microsoft.Identity.Client.dll
+C:\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\System.Buffers.dll
+C:\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\System.Memory.Data.dll
+C:\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\System.Memory.dll
+C:\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\System.Numerics.Vectors.dll
+C:\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\System.Security.AccessControl.dll
+C:\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\System.Security.Permissions.dll
+C:\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\System.Security.Principal.Windows.dll
+C:\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\System.Text.Encodings.Web.dll
+C:\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\System.Text.Json.dll
+C:\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\System.ValueTuple.dll
+C:\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\Azure.Core.xml
+C:\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\Azure.Identity.xml
+C:\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\Microsoft.Identity.Client.xml
+C:\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\System.Buffers.xml
+C:\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\System.Memory.xml
+C:\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\System.Memory.Data.xml
+C:\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\System.Numerics.Vectors.xml
+C:\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\System.Security.AccessControl.xml
+C:\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\System.Security.Permissions.xml
+C:\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\System.Security.Principal.Windows.xml
+C:\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\System.Text.Encodings.Web.xml
+C:\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\System.Text.Json.xml
+C:\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\System.ValueTuple.xml
+C:\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Diplomski rad - s21-20\Diplomski rad - s21-20\obj\Debug\Diplomski rad - s21-20.csproj.CopyComplete
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\Diplomski rad - s21-20.exe.config
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\Diplomski rad - s21-20.exe
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\Diplomski rad - s21-20.pdb
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\Azure.Core.dll
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\Azure.Identity.dll
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\System.Buffers.dll
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\System.Memory.Data.dll
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\System.Memory.dll
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\System.Security.AccessControl.dll
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\System.Security.Permissions.dll
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\System.Text.Json.dll
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\System.ValueTuple.dll
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\Azure.Core.xml
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\Azure.Identity.xml
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\System.Buffers.xml
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\System.Memory.xml
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\System.Memory.Data.xml
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\System.Security.AccessControl.xml
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\System.Security.Permissions.xml
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\System.Text.Json.xml
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\System.ValueTuple.xml
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20\Diplomski rad - s21-20\obj\Debug\Diplomski rad - s21-20.csproj.AssemblyReference.cache
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20\Diplomski rad - s21-20\obj\Debug\Diplomski_rad___s21_20.Properties.Resources.resources
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20\Diplomski rad - s21-20\obj\Debug\Diplomski_rad___s21_20.Views.BoldView.resources
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20\Diplomski rad - s21-20\obj\Debug\Diplomski_rad___s21_20.Views.DecijeView.resources
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20\Diplomski rad - s21-20\obj\Debug\Diplomski_rad___s21_20.Views.Dodaci2View.resources
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20\Diplomski rad - s21-20\obj\Debug\Diplomski_rad___s21_20.Views.DodaciView.resources
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20\Diplomski rad - s21-20\obj\Debug\Diplomski_rad___s21_20.Views.MainView.resources
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20\Diplomski rad - s21-20\obj\Debug\Diplomski_rad___s21_20.Views.NaocareView.resources
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20\Diplomski rad - s21-20\obj\Debug\Diplomski_rad___s21_20.Views.RimlessView.resources
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20\Diplomski rad - s21-20\obj\Debug\Diplomski rad - s21-20.csproj.GenerateResource.cache
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20\Diplomski rad - s21-20\obj\Debug\Diplomski rad - s21-20.csproj.CoreCompileInputs.cache
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20\Diplomski rad - s21-20\obj\Debug\Diplomski rad - s21-20.csproj.CopyComplete
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20\Diplomski rad - s21-20\obj\Debug\Diplomski rad - s21-20.exe
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20\Diplomski rad - s21-20\obj\Debug\Diplomski rad - s21-20.pdb
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20 - копија\Diplomski rad - s21-20\bin\Debug\Diplomski rad - s21-20.exe.config
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20 - копија\Diplomski rad - s21-20\bin\Debug\Diplomski rad - s21-20.exe
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20 - копија\Diplomski rad - s21-20\bin\Debug\Diplomski rad - s21-20.pdb
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20 - копија\Diplomski rad - s21-20\bin\Debug\Azure.Core.dll
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20 - копија\Diplomski rad - s21-20\bin\Debug\Azure.Identity.dll
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20 - копија\Diplomski rad - s21-20\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20 - копија\Diplomski rad - s21-20\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20 - копија\Diplomski rad - s21-20\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20 - копија\Diplomski rad - s21-20\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20 - копија\Diplomski rad - s21-20\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20 - копија\Diplomski rad - s21-20\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20 - копија\Diplomski rad - s21-20\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20 - копија\Diplomski rad - s21-20\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20 - копија\Diplomski rad - s21-20\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20 - копија\Diplomski rad - s21-20\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20 - копија\Diplomski rad - s21-20\bin\Debug\System.Buffers.dll
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20 - копија\Diplomski rad - s21-20\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20 - копија\Diplomski rad - s21-20\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20 - копија\Diplomski rad - s21-20\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20 - копија\Diplomski rad - s21-20\bin\Debug\System.Memory.Data.dll
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20 - копија\Diplomski rad - s21-20\bin\Debug\System.Memory.dll
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20 - копија\Diplomski rad - s21-20\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20 - копија\Diplomski rad - s21-20\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20 - копија\Diplomski rad - s21-20\bin\Debug\System.Security.AccessControl.dll
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20 - копија\Diplomski rad - s21-20\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20 - копија\Diplomski rad - s21-20\bin\Debug\System.Security.Permissions.dll
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20 - копија\Diplomski rad - s21-20\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20 - копија\Diplomski rad - s21-20\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20 - копија\Diplomski rad - s21-20\bin\Debug\System.Text.Json.dll
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20 - копија\Diplomski rad - s21-20\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20 - копија\Diplomski rad - s21-20\bin\Debug\System.ValueTuple.dll
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20 - копија\Diplomski rad - s21-20\bin\Debug\Azure.Core.xml
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20 - копија\Diplomski rad - s21-20\bin\Debug\Azure.Identity.xml
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20 - копија\Diplomski rad - s21-20\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20 - копија\Diplomski rad - s21-20\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20 - копија\Diplomski rad - s21-20\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20 - копија\Diplomski rad - s21-20\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20 - копија\Diplomski rad - s21-20\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20 - копија\Diplomski rad - s21-20\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20 - копија\Diplomski rad - s21-20\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20 - копија\Diplomski rad - s21-20\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20 - копија\Diplomski rad - s21-20\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20 - копија\Diplomski rad - s21-20\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20 - копија\Diplomski rad - s21-20\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20 - копија\Diplomski rad - s21-20\bin\Debug\System.Buffers.xml
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20 - копија\Diplomski rad - s21-20\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20 - копија\Diplomski rad - s21-20\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20 - копија\Diplomski rad - s21-20\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20 - копија\Diplomski rad - s21-20\bin\Debug\System.Memory.xml
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20 - копија\Diplomski rad - s21-20\bin\Debug\System.Memory.Data.xml
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20 - копија\Diplomski rad - s21-20\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20 - копија\Diplomski rad - s21-20\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20 - копија\Diplomski rad - s21-20\bin\Debug\System.Security.AccessControl.xml
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20 - копија\Diplomski rad - s21-20\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20 - копија\Diplomski rad - s21-20\bin\Debug\System.Security.Permissions.xml
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20 - копија\Diplomski rad - s21-20\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20 - копија\Diplomski rad - s21-20\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20 - копија\Diplomski rad - s21-20\bin\Debug\System.Text.Json.xml
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20 - копија\Diplomski rad - s21-20\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20 - копија\Diplomski rad - s21-20\bin\Debug\System.ValueTuple.xml
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20 - копија\Diplomski rad - s21-20\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20 - копија\Diplomski rad - s21-20\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20 - копија\Diplomski rad - s21-20\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20 - копија\Diplomski rad - s21-20\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20 - копија\Diplomski rad - s21-20\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20 - копија\Diplomski rad - s21-20\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20 - копија\Diplomski rad - s21-20\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20 - копија\Diplomski rad - s21-20\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20 - копија\Diplomski rad - s21-20\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20 - копија\Diplomski rad - s21-20\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20 - копија\Diplomski rad - s21-20\obj\Debug\Diplomski rad - s21-20.csproj.AssemblyReference.cache
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20 - копија\Diplomski rad - s21-20\obj\Debug\Diplomski_rad___s21_20.Properties.Resources.resources
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20 - копија\Diplomski rad - s21-20\obj\Debug\Diplomski_rad___s21_20.Views.BoldView.resources
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20 - копија\Diplomski rad - s21-20\obj\Debug\Diplomski_rad___s21_20.Views.DecijeView.resources
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20 - копија\Diplomski rad - s21-20\obj\Debug\Diplomski_rad___s21_20.Views.Dodaci2View.resources
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20 - копија\Diplomski rad - s21-20\obj\Debug\Diplomski_rad___s21_20.Views.DodaciView.resources
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20 - копија\Diplomski rad - s21-20\obj\Debug\Diplomski_rad___s21_20.Views.Login.resources
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20 - копија\Diplomski rad - s21-20\obj\Debug\Diplomski_rad___s21_20.Views.MainView.resources
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20 - копија\Diplomski rad - s21-20\obj\Debug\Diplomski_rad___s21_20.Views.NaocareView.resources
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20 - копија\Diplomski rad - s21-20\obj\Debug\Diplomski_rad___s21_20.Views.RimlessView.resources
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20 - копија\Diplomski rad - s21-20\obj\Debug\Diplomski rad - s21-20.csproj.GenerateResource.cache
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20 - копија\Diplomski rad - s21-20\obj\Debug\Diplomski rad - s21-20.csproj.CoreCompileInputs.cache
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20 - копија\Diplomski rad - s21-20\obj\Debug\Diplomski rad - s21-20.csproj.CopyComplete
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20 - копија\Diplomski rad - s21-20\obj\Debug\Diplomski rad - s21-20.exe
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20 - копија\Diplomski rad - s21-20\obj\Debug\Diplomski rad - s21-20.pdb
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20 - копија\Diplomski rad - s21-20\obj\Debug\Diplomski_rad___s21_20.Views.Register.resources
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20 - копија\Diplomski rad - s21-20\obj\Debug\Diplomski_rad___s21_20.Views.Korpa.resources
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20\Diplomski rad - s21-20\obj\Debug\Diplomski_rad___s21_20.Views.Korpa.resources
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20\Diplomski rad - s21-20\obj\Debug\Diplomski_rad___s21_20.Views.Login.resources
+C:\Users\nikol\OneDrive\Radna površina\Diplomski rad - s21-20\Diplomski rad - s21-20\obj\Debug\Diplomski_rad___s21_20.Views.Register.resources
+C:\Users\nikol\Downloads\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\Diplomski rad - s21-20.exe.config
+C:\Users\nikol\Downloads\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\Diplomski rad - s21-20.exe
+C:\Users\nikol\Downloads\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\Diplomski rad - s21-20.pdb
+C:\Users\nikol\Downloads\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\Azure.Core.dll
+C:\Users\nikol\Downloads\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\Azure.Identity.dll
+C:\Users\nikol\Downloads\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nikol\Downloads\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\nikol\Downloads\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\nikol\Downloads\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\nikol\Downloads\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\nikol\Downloads\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\nikol\Downloads\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\nikol\Downloads\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\nikol\Downloads\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\nikol\Downloads\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\nikol\Downloads\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\System.Buffers.dll
+C:\Users\nikol\Downloads\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\nikol\Downloads\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nikol\Downloads\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nikol\Downloads\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\System.Memory.Data.dll
+C:\Users\nikol\Downloads\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\System.Memory.dll
+C:\Users\nikol\Downloads\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\nikol\Downloads\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nikol\Downloads\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\System.Security.AccessControl.dll
+C:\Users\nikol\Downloads\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nikol\Downloads\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\System.Security.Permissions.dll
+C:\Users\nikol\Downloads\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\nikol\Downloads\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\nikol\Downloads\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\System.Text.Json.dll
+C:\Users\nikol\Downloads\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\nikol\Downloads\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\System.ValueTuple.dll
+C:\Users\nikol\Downloads\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\Azure.Core.xml
+C:\Users\nikol\Downloads\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\Azure.Identity.xml
+C:\Users\nikol\Downloads\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\nikol\Downloads\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\nikol\Downloads\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\nikol\Downloads\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\nikol\Downloads\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\nikol\Downloads\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\nikol\Downloads\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\nikol\Downloads\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\nikol\Downloads\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\nikol\Downloads\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\nikol\Downloads\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\nikol\Downloads\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\System.Buffers.xml
+C:\Users\nikol\Downloads\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\nikol\Downloads\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\nikol\Downloads\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\nikol\Downloads\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\System.Memory.xml
+C:\Users\nikol\Downloads\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\System.Memory.Data.xml
+C:\Users\nikol\Downloads\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\nikol\Downloads\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\nikol\Downloads\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\System.Security.AccessControl.xml
+C:\Users\nikol\Downloads\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\nikol\Downloads\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\System.Security.Permissions.xml
+C:\Users\nikol\Downloads\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\nikol\Downloads\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\nikol\Downloads\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\System.Text.Json.xml
+C:\Users\nikol\Downloads\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\nikol\Downloads\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\System.ValueTuple.xml
+C:\Users\nikol\Downloads\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nikol\Downloads\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nikol\Downloads\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nikol\Downloads\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nikol\Downloads\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nikol\Downloads\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nikol\Downloads\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nikol\Downloads\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nikol\Downloads\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nikol\Downloads\Diplomski rad - s21-20\Diplomski rad - s21-20\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nikol\Downloads\Diplomski rad - s21-20\Diplomski rad - s21-20\obj\Debug\Diplomski rad - s21-20.csproj.AssemblyReference.cache
+C:\Users\nikol\Downloads\Diplomski rad - s21-20\Diplomski rad - s21-20\obj\Debug\Diplomski_rad___s21_20.Properties.Resources.resources
+C:\Users\nikol\Downloads\Diplomski rad - s21-20\Diplomski rad - s21-20\obj\Debug\Diplomski_rad___s21_20.Views.BoldView.resources
+C:\Users\nikol\Downloads\Diplomski rad - s21-20\Diplomski rad - s21-20\obj\Debug\Diplomski_rad___s21_20.Views.DecijeView.resources
+C:\Users\nikol\Downloads\Diplomski rad - s21-20\Diplomski rad - s21-20\obj\Debug\Diplomski_rad___s21_20.Views.Dodaci2View.resources
+C:\Users\nikol\Downloads\Diplomski rad - s21-20\Diplomski rad - s21-20\obj\Debug\Diplomski_rad___s21_20.Views.DodaciView.resources
+C:\Users\nikol\Downloads\Diplomski rad - s21-20\Diplomski rad - s21-20\obj\Debug\Diplomski_rad___s21_20.Views.Korpa.resources
+C:\Users\nikol\Downloads\Diplomski rad - s21-20\Diplomski rad - s21-20\obj\Debug\Diplomski_rad___s21_20.Views.Login.resources
+C:\Users\nikol\Downloads\Diplomski rad - s21-20\Diplomski rad - s21-20\obj\Debug\Diplomski_rad___s21_20.Views.MainView.resources
+C:\Users\nikol\Downloads\Diplomski rad - s21-20\Diplomski rad - s21-20\obj\Debug\Diplomski_rad___s21_20.Views.NaocareView.resources
+C:\Users\nikol\Downloads\Diplomski rad - s21-20\Diplomski rad - s21-20\obj\Debug\Diplomski_rad___s21_20.Views.Register.resources
+C:\Users\nikol\Downloads\Diplomski rad - s21-20\Diplomski rad - s21-20\obj\Debug\Diplomski_rad___s21_20.Views.RimlessView.resources
+C:\Users\nikol\Downloads\Diplomski rad - s21-20\Diplomski rad - s21-20\obj\Debug\Diplomski rad - s21-20.csproj.GenerateResource.cache
+C:\Users\nikol\Downloads\Diplomski rad - s21-20\Diplomski rad - s21-20\obj\Debug\Diplomski rad - s21-20.csproj.CoreCompileInputs.cache
+C:\Users\nikol\Downloads\Diplomski rad - s21-20\Diplomski rad - s21-20\obj\Debug\Diplomski rad - s21-20.csproj.CopyComplete
+C:\Users\nikol\Downloads\Diplomski rad - s21-20\Diplomski rad - s21-20\obj\Debug\Diplomski rad - s21-20.exe
+C:\Users\nikol\Downloads\Diplomski rad - s21-20\Diplomski rad - s21-20\obj\Debug\Diplomski rad - s21-20.pdb

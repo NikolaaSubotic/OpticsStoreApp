@@ -1,0 +1,6 @@
+Racun za korisnika: admin
+Stavke racuna:
+q - 7 komada - 49,00 din
+q - 2 komada - 14,00 din
+q - 1 komada - 1,00 din
+Ukupno: 64,00 din
