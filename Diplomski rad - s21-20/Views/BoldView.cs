@@ -2,14 +2,14 @@
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
-using System.Data.SqlClient;
 using System.Drawing;
 using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using Diplomski_rad___s21_20.Views;
+using Diplomski_rad___s21_20.Services;
+using Diplomski_rad___s21_20.Views.Common;
 
 namespace Diplomski_rad___s21_20.Views
 {
@@ -19,9 +19,11 @@ namespace Diplomski_rad___s21_20.Views
         private string message;
         private bool isSuccessful;
         private bool isEdit;
+        private readonly CartService cartService;
         public BoldView()
         {
             InitializeComponent();
+            cartService = new CartService(connectionString);
             AssociateAndRaiseViewEvents();
             tabControl1.TabPages.Remove(tabPage2);
             btnClose.Click += delegate { this.Close(); };
@@ -91,23 +93,13 @@ namespace Diplomski_rad___s21_20.Views
             // Dodajte događaj za odabir slike
             btnImage.Click += delegate
             {
-                ChooseImageEvent?.Invoke(this, EventArgs.Empty);
-                using (OpenFileDialog openFileDialog = new OpenFileDialog())
+                var pickedImage = ImagePicker.PickImageFromDisk();
+                if (pickedImage != null)
                 {
-                    openFileDialog.Filter = "Slike|*.jpg;*.jpeg;*.png;*.gif;*.bmp"; // Filtrirajte dozvoljene tipove slika
-                    if (openFileDialog.ShowDialog() == DialogResult.OK)
-                    {
-                        // Učitaj odabranu sliku
-                        Slika = File.ReadAllBytes(openFileDialog.FileName);
-
-                        // Prikazivanje odabrane slike na PictureBox kontroli
-                        ShowImage(Slika);
-
-                        // Pozovite događaj ChooseImageEvent da obavesti ostatak aplikacije o odabiru slike.
-                        ChooseImageEvent?.Invoke(this, EventArgs.Empty);
-                    }
+                    Slika = pickedImage;
+                    ShowImage(Slika);
+                    ChooseImageEvent?.Invoke(this, EventArgs.Empty);
                 }
-
             };
             btnDodajUKorpu.Click += btnDodajUKorpu_Click;
         }
@@ -145,28 +137,6 @@ namespace Diplomski_rad___s21_20.Views
         {
             dataGridView1.DataSource = boldList;
         }
-
-        // Implementirali smo metodu za prikaz slike
-        private void btnImage_Click(object sender, EventArgs e)
-        {
-            using (OpenFileDialog openFileDialog = new OpenFileDialog())
-            {
-                openFileDialog.Filter = "Slike|*.jpg;*.jpeg;*.png;*.gif;*.bmp"; // Filtrirajte dozvoljene tipove slika
-                if (openFileDialog.ShowDialog() == DialogResult.OK)
-                {
-                    // Učitaj odabranu sliku
-                    Slika = File.ReadAllBytes(openFileDialog.FileName);
-
-                    // Prikazivanje odabrane slike na PictureBox kontroli
-                    ShowImage(Slika);
-
-                    // Pozovite događaj ChooseImageEvent da obavesti ostatak aplikacije o odabiru slike.
-                    ChooseImageEvent?.Invoke(this, EventArgs.Empty);
-                }
-            }
-        }
-
-
 
         // Implementirajte metodu za prikaz slike na PictureBox kontroli
         public void ShowImage(byte[] imageBytes)
@@ -229,7 +199,7 @@ namespace Diplomski_rad___s21_20.Views
                 if (naocareIdObj != null && int.TryParse(naocareIdObj.ToString(), out int naocareId))
                 {
                     // Dohvatite količinu iz TextBox-a ili nekog drugog kontrola
-                    if (int.TryParse(txtKolicina.Text, out int kolicina))
+                    if (int.TryParse(txtKolicina.Text, out int kolicina) && kolicina > 0)
                     {
                         // Dodajte proizvod u korpu
                         DodajUKorpu(Program.CurrentUser, naocareId, kolicina);
@@ -237,7 +207,7 @@ namespace Diplomski_rad___s21_20.Views
                     }
                     else
                     {
-                        MessageBox.Show("Unesite ispravan broj za količinu.");
+                        MessageBox.Show("Unesite ispravan broj za količinu (veće od 0).");
                     }
                 }
                 else
@@ -255,23 +225,7 @@ namespace Diplomski_rad___s21_20.Views
         {
             try
             {
-                using (SqlConnection connection = new SqlConnection(connectionString))
-                {
-                    connection.Open();
-
-                    // Kreirajte SQL upit za dodavanje proizvoda u korpu
-                    string query = "INSERT INTO Korpa (Korisnik_Id, Naocare_Id, Kolicina) VALUES " +
-                                   "((SELECT id FROM Korisnici WHERE username = @korisnikUsername), @naocareId, @kolicina)";
-
-                    using (SqlCommand command = new SqlCommand(query, connection))
-                    {
-                        command.Parameters.AddWithValue("@korisnikUsername", korisnikUsername);
-                        command.Parameters.AddWithValue("@naocareId", naocareId);
-                        command.Parameters.AddWithValue("@kolicina", kolicina);
-
-                        command.ExecuteNonQuery();
-                    }
-                }
+                cartService.AddToCart(korisnikUsername, naocareId, kolicina);
             }
             catch (Exception ex)
             {
